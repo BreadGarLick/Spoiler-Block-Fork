@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
-    "name": "\"All You Care To Eat\" to \"Dining Halls\"",
-    "description": "Changes Rensselaer Dining Website \"All You Care To Eat\"",
+    "name": "Spoiler Block",
+    "description": "Blocks Spoilers",
     "version": "1.0",
     "content_scripts": [
         {
